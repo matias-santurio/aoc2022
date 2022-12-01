@@ -26,7 +26,7 @@ class Main{
         for (var i = 0; i < 3; i++){
             total += gnomesCalories.get(i);
         }
-        System.out.println("Total calories is: " + total);
+        System.out.println("Total calories in the top three is: " + total);
         br.close();
     }
 }
