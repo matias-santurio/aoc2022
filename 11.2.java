@@ -71,7 +71,7 @@ class Monkey {
     }
 }
 
-class Main_11_1 {
+class Main_11_2 {
 
     static List<Long> parseItems(String line) {
         var parts = line.trim().split(" ");
